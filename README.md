@@ -1,3 +1,5 @@
+https://github.com/gfx-rs/naga/issues/852
+
 when the x coordinate of the rectangle goes offscreen, the rectangle will not render.
 
 if `cross` is enabled, it will still render.
